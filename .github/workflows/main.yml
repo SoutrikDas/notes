@@ -20,7 +20,7 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
           git checkout master
           ls -la
-      - run: python3 automatednotionbackup.py
+      - run: python3 ./.github/workflows/automatednotionbackup.py
         env:
           TZ: ${{secrets.TZ}}
           NOTION_TOKEN_V2: ${{secrets.NOTION_TOKEN_V2}}
