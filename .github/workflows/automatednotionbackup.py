@@ -15,7 +15,7 @@ ENQUEUE_TASK_PARAM = {
     "eventName": "exportBlock",
     "request": {
       "spaceId": "7a886a30-1e23-4ae4-a4c8-7925ce34f45c",
-      "recursive":true,
+      "recursive":"true",
       "exportOptions": {
         "exportType": "markdown",
         "timeZone": "Asia/Calcutta",
