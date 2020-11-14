@@ -2,6 +2,7 @@ name: Backing up notes
 on: 
   schedule:
     - cron: 0/10 * * * *
+  push: 
 jobs:
   build:
     name: Hello world action
