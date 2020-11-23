@@ -14,7 +14,7 @@ NOTION_SPACE_ID = os.environ['NOTION_SPACE_ID']
 ENQUEUE_TASK_PARAM = {
     "task": {
         "eventName": "exportBlock", "request": {
-            "spaceId": NOTION_SPACE_ID,
+            "blockId": NOTION_SPACE_ID,
             "recursive":"true",
             "exportOptions": {"exportType": "markdown", "timeZone": TZ, "locale": "en"}
         }
