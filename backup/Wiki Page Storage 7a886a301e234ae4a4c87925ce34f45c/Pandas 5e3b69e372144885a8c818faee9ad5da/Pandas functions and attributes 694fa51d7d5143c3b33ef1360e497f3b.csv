@@ -1,0 +1,7 @@
+﻿Name,Tags,Description,Column
+df.shape,attribute,Gives the shape rows x columns,
+df.info(),function,"Gives a bit more info than shape , primarily about data type of different columns",
+pd.set_option(),function,"Lets you change various settings , for example maximum columns shown ",
+df.head(int i),function,"by default head shows 5 , but if you pass a number , it will show you that much but from the beginning",
+df.tail(),function,opposite of head,
+series.value_counts(),function,"Counts and displays the values ",

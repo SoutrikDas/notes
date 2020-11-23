@@ -1,0 +1,7 @@
+# JEE ADV 2019 paper 1
+
+Child: Consider%20a%20spherical%20gaseous%20cloud%20of%20mass%20density%2015d7cd8b741b472c83d2a848a9025faa.md, A%20current%20carrying%20wire%20heats%20a%20metal%20rod%20The%20wire%20fbcef34181724aa9807dde75231aef75.md, Copy%20of%20In%20a%20radioactive%20sample,%20%5E%7B40%7D%20_%7B19%7DK%20nucl%20745a354fff4d445b842e1d3baa92b045.md, The%20correct%20order%20of%20acid%20strength%20of%20carboxylic%20a%20d1115d5f1b2b4d9da94ebcf0a4b8a3dc.md, A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7.md, A%20conducting%20wire%20of%20parabolic%20shape,%20initially%20y=%207a79f0c4003140cf8d95b60ea48bb24c.md, A%20charged%20shell%20of%20radius%20R%20carries%20a%20total%20charge%204f157553c7064ffebba75e31654d4e25.md, In%20the%20circuit%20shown,%20initially%20there%20is%20no%20charge%208e5f10ffb6b346daa9f3f9e216ba0a67.md, One%20mole%20of%20a%20monoatomic%20ideal%20gas%20goes%20through%20a%20%2019f02ca282ee4492b14fc9dcfc9cd179.md, A%20thin%20convex%20lens%20is%20made%20of%20two%20materials%20with%20r%205684d9a522eb4c5e88d1c99f3010110e.md
+Column: Sep 26, 2020 7:42 AM
+Last edited by: Soutrik das
+
+[Wiki Page Storage](JEE%20ADV%202019%20paper%201%206e969e4fdf724b4eba045ad8c9ac0feb/Wiki%20Page%20Storage%203214546937c84f9dbe93b1134aafb083.csv)

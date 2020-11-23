@@ -1,0 +1,6 @@
+﻿Name,No of Sharing cells,Effective
+Body Center,1,1
+"Face Center ",2,$\frac 12$
+Edge Center,4,$\frac 1 4$
+"Corner Hexagon ",6,$\frac 1 6$
+Corner Cubic,8,$\frac 18$

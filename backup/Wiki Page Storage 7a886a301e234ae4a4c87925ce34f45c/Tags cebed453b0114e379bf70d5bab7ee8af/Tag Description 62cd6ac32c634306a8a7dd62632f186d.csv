@@ -1,0 +1,16 @@
+﻿Name,Description,Tag
+question,"The page is solution to a Numerical problem. That is : No theory . Use the question as the title, and solve it inside the page",
+question book,A book that does not have theory but mainly questions,
+question paper,Just to make filtering between books (which only have excercises ) and question paper easier. Use this for papers like JEE Main 2019 p1 etc,
+doubt,"doubt is used to mark those questions  that you have doubts with , then share those pages with others to solve the doubt . When doubt is solved , change the tag to doubt cleared",
+doubt cleared," To denote that a question page was ONCE in doubt but now that doubt is cleared. You can use this to later only filter the doubts that you once cleared.",
+book,A book with theory and questions,
+unclear,"Not Clear about the contents ",
+unfinished,The page needs more addition,
+" maths",,subject
+physics,,subject
+chemistry,,subject
+biology,,subject
+"question type ","Used to represent a group of questions that can be solved in the same manner , The purpose is to later on in the chapter page , create a linked db and filter only the type of questions , and each of these question types will have a linked db with filter to show the problems of that question type ",
+adv,"Use this tag to track JEE Advance level questions ",
+recordable,"I can Make a video about it ",

@@ -1,0 +1,1 @@
+# Huge numbers of pages in the root directory due to improper management
