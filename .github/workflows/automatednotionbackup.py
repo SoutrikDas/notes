@@ -15,7 +15,7 @@ ENQUEUE_TASK_PARAM = {
     "task": {
         "eventName": "exportBlock", "request": {
             "blockId": NOTION_SPACE_ID,
-            "recursive":"true",
+            "recursive":True, #not "true" or true or "True" but True works
             "exportOptions": {"exportType": "markdown", "timeZone": TZ, "locale": "en"}
         }
     }
