@@ -705,7 +705,7 @@ $$P_{\text{inside}}-P_{\text{outside}}=\frac{2S}{R}$$
 
 $$P_{\text{concave}}-P_{\text{convex}}=\frac{2S}{R}$$
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2037.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2037.png)
+![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%202.png](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%202.png)
 
 But why is this the formula ? For the short derivation go [here](https://youtu.be/Us7sk1OrcUc?t=852) 
 
@@ -739,37 +739,37 @@ Putting all the values we will get the answer
 
 ---
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2038.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2038.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2037.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2037.png)
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2039.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2039.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2038.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2038.png)
 
 But how did we know that angle of contact is not these ? 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2040.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2040.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2039.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2039.png)
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2041.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2041.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2040.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2040.png)
 
 Because there are certain rules which we have to keep in mind when drawing lines to form angle 
 
 - Take Point of contanct
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle01.gif](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle01.gif)
+![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle01.gif](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle01.gif)
 
 - For Liquid Draw tangent ( away from solid )
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle02.gif](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle02.gif)
+![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle02.gif](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle02.gif)
 
 - For Solid Draw Tangent ( towards the liquid )
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle03.gif](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle03.gif)
+![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle03.gif](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle03.gif)
 
 Now doing it all together we have 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle041.gif](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle041.gif)
+![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle041.gif](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle041.gif)
 
 Those curves that the liquid forms where its touching the glass rod , is called meniscus , in the pictures above there was only concave meniscus , but a convex meniscus is also possible 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2042.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2042.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2041.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2041.png)
 
 Here is how you get the contact angle for a convex meniscus 
 
@@ -797,15 +797,15 @@ The thing is , ( take water and glass ) , the cohesive force of water ( force be
 
 $$\text{Cohesive}<\text{Adhesive }$$
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2043.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2043.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2042.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2042.png)
 
 And we know that in a static liquid , the Free surface is always perpendicular to net force , so that also holds up 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2044.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2044.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2043.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2043.png)
 
 Whereas for mercury , the reverse happens , the cohesive force is so large that the glass is not able to pull at all , it forms a depression 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2045.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2045.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2044.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2044.png)
 
 Convex Meniscus 
 
@@ -817,15 +817,15 @@ $$\text{Cohesive}>\text{Adhesive}$$
 
 If contact angle $<90\degree$ then the liquid rises in a capillary tube ( a tube with very small radius ) 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2046.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2046.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2045.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2045.png)
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2047.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2047.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2046.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2046.png)
 
 If contact angle $>90\degree$ then the liquid depresses in a capillary tube 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2048.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2048.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2047.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2047.png)
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2049.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2049.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2048.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2048.png)
 
 ### When Capillary is cylindrical
 
@@ -833,7 +833,7 @@ If contact angle $>90\degree$ then the liquid depresses in a capillary tube
 
 For general case we find that the height can be found out theoretically using 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2050.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2050.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2049.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2049.png)
 
 $$h_{\text{vertical}}=\frac{2S\cos \theta}{r\rho g}$$
 
@@ -843,7 +843,7 @@ Where
 
 The crux of the derivation , is that the meniscus that is exposed to air ( in capillary tube ) has two surfaces , Concave and convex 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2051.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2051.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2050.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2050.png)
 
 From the concept of excess pressure inside water bubble we know that 
 
@@ -855,11 +855,11 @@ Where
 
 - $R$ is NOT the radius of capillary , but the radius of the meniscus
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2052.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2052.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2051.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2051.png)
 
 Which can be expressed in the terms of $r$ which is the radius of capillary tube 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2053.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2053.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2052.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2052.png)
 
 $$R\cos \theta = r$$
 
@@ -867,7 +867,7 @@ $$P_{\text{inside meniscus}}=P_o-\frac{2S\cos \theta }{r}$$
 
 Now we can use the fact that  Pressure at $X$ and $Y$ are same , and the fact that Pressure at $Y$ is $P_o$ 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2054.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2054.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2053.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2053.png)
 
 $$P_x=P_o-\frac{2S\cos \theta }{r}+\rho gh_{\text{vertical}}$$
 
@@ -883,7 +883,7 @@ $$h_{vertical}=\frac{2S \cos \theta}{r \rho g}$$
 
 Q: If the calculated value of $h_{\text{vertical}}=\frac{2S \cos \theta}{r\rho g}$ is coming to be 1 cm , in a cylindrical capillary tube of 4cm , then if we slant the tube at an angle of $60 \degree$ with horizontal , then what will be the value of $l$ 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2055.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2055.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2054.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2054.png)
 
 That is where the $h_{vertical}$ comes in , the calculated height has to be the vertical height , which means $l$ , the slant height will be more than $1cm$ and in fact it is $\frac 2 {\sqrt 3}$cm
 
@@ -895,7 +895,7 @@ This concept of h vertical can be understood from the fact that even if the colu
 
 If the capillary is not of cylindrical shape , it may cause some changes , for example 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2056.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2056.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2055.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2055.png)
 
 Pressure inside is 
 
@@ -903,9 +903,9 @@ $$P_{convex}=P_o-\frac{2S}{R}$$
 
 Now the problem is this time the relation between $R$ and radius of capillary at that point $b$ might not be same 
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2057.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2057.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2056.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2056.png)
 
-![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2058.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2058.png)
+![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2057.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2057.png)
 
 This time the relation is 
 
