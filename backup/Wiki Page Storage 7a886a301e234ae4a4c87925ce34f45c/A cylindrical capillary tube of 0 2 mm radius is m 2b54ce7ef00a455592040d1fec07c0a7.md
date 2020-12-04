@@ -17,19 +17,19 @@ What is contact angle even ?  For that information , go [here](Fluid%20Statics%2
 
     - Take Point of contanct
 
-    ![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle01.gif](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle01.gif)
+    ![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle01.gif](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle01.gif)
 
     - For Liquid Draw tangent ( away from solid )
 
-    ![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle02.gif](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle02.gif)
+    ![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle02.gif](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle02.gif)
 
     - For Solid Draw Tangent ( towards the liquid )
 
-    ![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle03.gif](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle03.gif)
+    ![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle03.gif](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle03.gif)
 
     Now doing it all together we have 
 
-    ![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle041.gif](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/contactangle041.gif)
+    ![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle041.gif](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/contactangle041.gif)
 
 What is the excess pressure inside a water bubble / Convex side ? 
 
@@ -41,7 +41,7 @@ What is the excess pressure inside a water bubble / Convex side ?
 
     $$P_{\text{concave}}-P_{\text{convex}}=\frac{2S}{R}$$
 
-    ![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%202.png](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%202.png)
+    ![Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2037.png](Fluid%20Statics%20(%20Hydrostatics%20)%2081f1af117a754b2c990c63bc2ee42d1b/Untitled%2037.png)
 
     But why is this the formula ? For the short derivation go [here](https://youtu.be/Us7sk1OrcUc?t=852) 
 
@@ -51,7 +51,7 @@ What is the excess pressure inside a water bubble / Convex side ?
 
 Now having a contact angle of $0\degree$ means the liquid has wetted the solid very much , almost impossibly so 
 
-![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%203.png](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%203.png)
+![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%202.png](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%202.png)
 
 But anyway thats not the point , the point is to figure out how the height will change when there are two different materials 
 
@@ -67,7 +67,7 @@ $$h_2=\frac{2S\cos 60 \degree}{\rho g R}=\frac{S}{\rho gR}$$
 
 But halt , what if , this happens ?
 
-![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%204.png](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%204.png)
+![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%203.png](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%203.png)
 
 Indeed , Lets calculate the values first 
 
@@ -91,7 +91,7 @@ Which means 7.5 cm
 
 But this scenaria can happen in two ways 
 
-![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%205.png](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%205.png)
+![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%204.png](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%204.png)
 
 In both cases the meniscus is formed at T1
 
@@ -132,7 +132,7 @@ Using that idea , we can assume that angle to be $\phi$
 
 and then 
 
-![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%206.png](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%206.png)
+![A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%205.png](A%20cylindrical%20capillary%20tube%20of%200%202%20mm%20radius%20is%20m%202b54ce7ef00a455592040d1fec07c0a7/Untitled%205.png)
 
 Equating the pressure at the bottom 
 
