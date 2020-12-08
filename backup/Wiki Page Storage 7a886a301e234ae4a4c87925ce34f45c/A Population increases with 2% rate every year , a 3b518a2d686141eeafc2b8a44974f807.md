@@ -7,6 +7,32 @@ Last edited by: Soutrik das
 
     Let the initial population be $P$ 
 
+    So at the absolute beginning , population is $P$ 
+
+    then after one year Population is $1.02 \times P$ , but instead of that we will see the change , after the end of 1 year , the **Extra addition** to population was $0.02 \times P$  ( This is the contribution of the first year )
+
+    After the end of 2 nd year , the extra addition was $(0.02)^2 \times P$ ( this is the contribution of the second year )
+
+    After the end of 3 rd year , the extra addition was $(0.02)^3 \times P$ ( this is the contribution of the third year ) 
+
+    Note:  $\boxed{1.02\times P}$ is the final **Total Population** after one year , but $\boxed{0.02\times P}$ is the **Addition**  , it is not the final population after first year . 
+    Similarly $\boxed{(1.02)^2\times P}$ is the final **Total population** after **two** years , but $\boxed{(0.02)^2 \times P}$ is the **addition**  **of the second year**  ( contribution of the second year ) 
+
+    So the absolute total after n years = Initial Population + First years contribution + Second years contribution + ... $n$ th years contribution 
+
+    $$S_n=P+P(0.02)^1+P(0.02)^2+P(0.02)^3+\cdots P(0.02)^n$$
+
+    Note : that there are $n+1$ terms in the above equation , 
+    Why $n+1$ ? because Initial population is the first term , and then contribution of the $n$ years 
+
+    $$S_n=P\left[1+(0.02)^1+(0.02)^2+(0.02)^3+\cdots (0.02)^n \right] \tag 1$$
+
+    We know that $S_n$ is the final population ( final population is the sum of initial population and the contribution of all the years ) 
+
+    and we are given that $S_n=1.4 \times P$ 
+
+    Therefore using that in equation (1)
+
 According to the binomial theorem
 
 $$(1+x)^n=1+^nC_1x+^nC_2x^2+^nC_3x^3+\cdots $$
@@ -66,6 +92,32 @@ $$n=\frac{40}{2}$$
 approximately its coming 20 , but n should be lower 
 
 - Failed try
+
+    So at the absolute beginning , population is $P$ 
+
+    then after one year Population is $1.02 \times P$ , but instead of that we will see the change , after the end of 1 year , the **Extra addition** to population was $0.02 \times P$  ( This is the contribution of the first year )
+
+    After the end of 2 nd year , the extra addition was $(0.02)^2 \times P$ ( this is the contribution of the second year )
+
+    After the end of 3 rd year , the extra addition was $(0.02)^3 \times P$ ( this is the contribution of the third year ) 
+
+    Note:  $\boxed{1.02\times P}$ is the final **Total Population** after one year , but $\boxed{0.02\times P}$ is the **Addition**  , it is not the final population after first year . 
+    Similarly $\boxed{(1.02)^2\times P}$ is the final **Total population** after **two** years , but $\boxed{(0.02)^2 \times P}$ is the **addition**  **of the second year**  ( contribution of the second year ) 
+
+    So the absolute total after n years = Initial Population + First years contribution + Second years contribution + ... $n$ th years contribution 
+
+    $$S_n=P+P(0.02)^1+P(0.02)^2+P(0.02)^3+\cdots P(0.02)^n$$
+
+    Note : that there are $n+1$ terms in the above equation , 
+    Why $n+1$ ? because Initial population is the first term , and then contribution of the $n$ years 
+
+    $$S_n=P\left[1+(0.02)^1+(0.02)^2+(0.02)^3+\cdots (0.02)^n \right] \tag 1$$
+
+    We know that $S_n$ is the final population ( final population is the sum of initial population and the contribution of all the years ) 
+
+    and we are given that $S_n=1.4 \times P$ 
+
+    Therefore using that in equation (1)
 
     $$(1.4)\times P=P\left[1+(0.02)^1+(0.02)^2+(0.02)^3+\cdots (0.02)^n \right] $$
 
