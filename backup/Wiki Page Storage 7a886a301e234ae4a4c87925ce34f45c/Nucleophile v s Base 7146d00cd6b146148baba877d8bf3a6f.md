@@ -8,21 +8,21 @@ Tags: chemistry
 
 - No charge means weak Nucleophile
 
-![Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled.png](Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled.png)
+![SN_1%20v%20s%20SN_2%204d48c13a75404f07b9626959d2aec8d9/Untitled%202.png](SN_1%20v%20s%20SN_2%204d48c13a75404f07b9626959d2aec8d9/Untitled%202.png)
 
 - Charge but stabilized  means good Nucleophile  ( Halogens with negative charge are very stable )
 
-    ![Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%201.png](Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%201.png)
+    ![SN_1%20v%20s%20SN_2%204d48c13a75404f07b9626959d2aec8d9/Untitled%203.png](SN_1%20v%20s%20SN_2%204d48c13a75404f07b9626959d2aec8d9/Untitled%203.png)
 
-    ![Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%202.png](Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%202.png)
+    ![SN_1%20v%20s%20SN_2%204d48c13a75404f07b9626959d2aec8d9/Untitled%204.png](SN_1%20v%20s%20SN_2%204d48c13a75404f07b9626959d2aec8d9/Untitled%204.png)
 
-    ![Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%203.png](Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%203.png)
+    ![SN_1%20v%20s%20SN_2%204d48c13a75404f07b9626959d2aec8d9/Untitled%205.png](SN_1%20v%20s%20SN_2%204d48c13a75404f07b9626959d2aec8d9/Untitled%205.png)
 
 - Charged but unstabilized means excellent Nucleophile
 
-    ![Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%204.png](Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%204.png)
+    ![SN_1%20v%20s%20SN_2%204d48c13a75404f07b9626959d2aec8d9/Untitled%206.png](SN_1%20v%20s%20SN_2%204d48c13a75404f07b9626959d2aec8d9/Untitled%206.png)
 
-    ![Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%205.png](Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%205.png)
+    ![SN_1%20v%20s%20SN_2%204d48c13a75404f07b9626959d2aec8d9/Untitled%207.png](SN_1%20v%20s%20SN_2%204d48c13a75404f07b9626959d2aec8d9/Untitled%207.png)
 
     # In [Acid Base Reactions ](Acid%20Base%20Reactions%20593773d95a39437db5cfe95b27604de4.md) we ranked bases by judging their conjugate acid , using the four factors
 
@@ -33,7 +33,7 @@ Tags: chemistry
         1. The more delocalized the more stable the conjugate acid ( benzyl is better than allyl  because more delocalization ) 
         2. But delocalization with  One oxygen is better than many carbon atom
 
-            ![Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%206.png](Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%206.png)
+            ![Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled.png](Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled.png)
 
     3. Induction
     4. Orbitals
@@ -52,7 +52,7 @@ Tags: chemistry
 
     In same row , Nucleophilicty and Basicity are similar , they depend if the compund is unstable or not ( actually they check if the compound is less electrophile or not , because less electrophile it is , the less it can stabilize the charge , hence more unstable eg  $NH_2 ^\ominus$ vs $OH^\ominus$ ) ( if unstable then better base and nucleophile ) 
 
-![Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%207.png](Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%207.png)
+![Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%201.png](Nucleophile%20v%20s%20Base%207146d00cd6b146148baba877d8bf3a6f/Untitled%201.png)
 
 2. When comparing atoms in the same column , for eg $SH^-$ and $OH^-$ 
 
